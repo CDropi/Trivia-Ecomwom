@@ -3,7 +3,7 @@
 // correctas no viajan a los celulares de los jugadores).
 
 // URL de la implementación de Apps Script (termina en /exec)
-export const API_URL = 'https://script.google.com/macros/s/https://script.google.com/macros/s/AKfycbwxZLhoV1CcAXYC9iPbFQTW4-KdHigzV2pxJemE0DdpHMeFTtqiF0Qdda-ilGum2vA3/exec';
+export const API_URL = 'https://script.google.com/macros/s/AKfycbwxZLhoV1CcAXYC9iPbFQTW4-KdHigzV2pxJemE0DdpHMeFTtqiF0Qdda-ilGum2vA3/exec';
 
 // MODO DEMO: simula el backend en el navegador para probar sin Google Sheets.
 // Se activa solo mientras API_URL no esté configurada. Pon false para forzar el backend real.
