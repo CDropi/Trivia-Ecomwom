@@ -1,9 +1,0 @@
-Pon aquí los archivos de las tipografías de la marca (los nombres deben coincidir):
-
-  Mazzard-Light.woff2     (o .otf/.ttf, ver styles.css)
-  Mazzard-Regular.woff2
-  Mazzard-Bold.woff2
-  Aminute-Regular.woff2
-
-Si faltan, la app usa Outfit (Google Fonts) como respaldo.
-Para convertir OTF/TTF a WOFF2 puedes usar https://cloudconvert.com/otf-to-woff2
